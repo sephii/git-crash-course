@@ -1,3 +1,3 @@
 # Hello world!
 
-Feel free to edit this file to fix any tpyo.
+Please, feel free to edit this file to fix any tpyo.
